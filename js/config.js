@@ -30,7 +30,6 @@ const CONFIG = {
       icon: 'drive',
       quickLaunch: false,
     },
-
     {
       category: 'Github',
       name: 'GitHub',
@@ -75,7 +74,6 @@ const CONFIG = {
       icon: 'youtube',
       quickLaunch: false,
     },
-    
     {
       category: 'Other',
       name: 'Notion',
@@ -123,7 +121,7 @@ const CONFIG = {
       limit: 1
     },
     {
-      name: 'Google',
+      name: 'DuckDuckGo',
       limit: 4
     },
   ],
