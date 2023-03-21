@@ -76,10 +76,10 @@ const CONFIG = {
     },
     {
       category: 'Other',
-      name: 'Notion',
+      name: 'Natwest',
       key: 'ns',
-      url: 'https://www.notion.so',
-      icon: 'notion',
+      url: 'https://www.natwest.com/',
+      icon: 'w3',
       quickLaunch: true,
     },
     {
